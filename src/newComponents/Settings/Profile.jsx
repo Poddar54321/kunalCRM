@@ -552,6 +552,7 @@ export default function SecuritySettings() {
           <input
             type="checkbox"
             // checked={emailAuth}
+            // 
             // onChange={() => setEmailAuth(!emailAuth)}
             className="toggle-checkbox"
             aria-label="Enable or disable Email Authentication"
