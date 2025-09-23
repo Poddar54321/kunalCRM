@@ -236,7 +236,7 @@
 
 // export default AddCompany;
 import { useState, useCallback } from "react";
-import Modal from "../UserManagement/Modal";
+import Modal from "../UserManagement/Modal.jsx";
 
 const statusOptions = ["Active", "Pending", "Inactive"];
 const industryOptions = ["Technology", "Manufacturing", "Finance", "Healthcare", "Retail", "Consulting"];
